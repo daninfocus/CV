@@ -31,6 +31,10 @@ I worked with various different languages and technologies:
 # Projects I've coded:
 ### Console Wallapop
 Made in Java still in progress, soon to be web app and further on, a mobile app in Flutter.
+
+[console](https://github.com/daninfocus/Wallapop-Consola)
+[web-app](https://github.com/daninfocus/WEBBAPOP)
+
 ### Telegram bot 
 With Python it gets data from properties that have been modified in the last 24 hours, and sends a message to 1 of 4 telegram groups with different price ranges Python.
 [a link](https://github.com/daninfocus/Python-Telegram-Bot)

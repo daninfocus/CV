@@ -29,15 +29,12 @@ I worked with various different languages and technologies:
   * Linux
 
 # Projects I've coded:
-### Console Wallapop
-Made in Java still in progress, soon to be web app and further on, a mobile app in Flutter.
+### [Console](https://github.com/daninfocus/Wallapop-Consola) Wallapop
+Made in Java still in progress, soon to be [web app](https://github.com/daninfocus/WEBBAPOP) and further on, a mobile app in Flutter.
 
-[console](https://github.com/daninfocus/Wallapop-Consola)
-[web-app](https://github.com/daninfocus/WEBBAPOP)
-
-### Telegram bot 
+### [Telegram bot](https://github.com/daninfocus/Python-Telegram-Bot)
 With Python it gets data from properties that have been modified in the last 24 hours, and sends a message to 1 of 4 telegram groups with different price ranges Python.
-[a link](https://github.com/daninfocus/Python-Telegram-Bot)
+
 ### Google My Business Post Automation
 Web app with OAuth2 login, that from a list of properties, gathers it's data, and posts it on to the account's Google My Business profile, has a post, this involves using Google My Business API, a OAuth2 workflow and this runs on Node.js, with bootstrap for the front-end.
 # Technical skills:

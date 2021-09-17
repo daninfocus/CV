@@ -29,7 +29,7 @@ I worked with various different languages and technologies:
   * Linux
 
 # Projects I've coded:
-### [Console](https://github.com/daninfocus/Wallapop-Consola) Wallapop
+### [Console Wallapop](https://github.com/daninfocus/Wallapop-Consola) 
 Made in Java still in progress, soon to be [web app](https://github.com/daninfocus/WEBBAPOP) and further on, a mobile app in Flutter.
 
 ### [Telegram bot](https://github.com/daninfocus/Python-Telegram-Bot)

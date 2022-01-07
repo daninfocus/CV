@@ -4,7 +4,7 @@ $ cat Daniel-Webb.cv
 
 
 # Daniel Webb
-I'm Junior aspiring full stack developer, leaning more towards back-end.
+I'm Junior aspiring full stack developer, leaning more towards front-end.
 
 I enjoy the logic challenges and problems that programming brings, I love technology and I like figuring stuff out myself.
 
